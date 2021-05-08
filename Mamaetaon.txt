@@ -1,0 +1,10 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 5C11-7A24
+
+ Pasta de C:\Users\Adm\reprograma
+
+08/05/2021  11:52    <DIR>          .
+08/05/2021  11:52    <DIR>          ..
+08/05/2021  11:52                 0 Mamaetaon.txt
+               1 arquivo(s)              0 bytes
+               2 pasta(s)   103.091.433.472 bytes dispon°veis
